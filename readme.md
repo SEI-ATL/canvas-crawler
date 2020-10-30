@@ -8,15 +8,6 @@ There's a bit of starter code, so you can jump right into it.
 
 The provided template contains all the files, images, and text content needed to create the page.
 
-***IF YOU HAVE NODE INSTALLED ALREADY and would like to use browsersync***
-
-* Run `npm install` to install dependencies
-* Run `npm start` to start the BrowserSync server
-
-***OTHERWISE***
-
-Ignore that mumbo jumbo and just dive in! The only files you'll need to worry about are: `index.html`, `img` folder, `css` folder.
-
 ## Goals
 
 * Use HTML5 Canvas to make an "ogre" (this can just be a box) and a "hero" (this can also just be a box)
